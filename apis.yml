@@ -1,0 +1,15 @@
+name: Microservice Design
+description: Architectural approach for building applications as a collection of loosely
+  coupled, independently deployable services that are organized around business capabilities.
+  Modern distributed architectures rely on it to coordinate workloads across multiple
+  nodes and regions.
+url: https://microservices.io/
+tags:
+- Software Architecture
+- Microservices
+- Distributed Systems
+- Service-Oriented Architecture
+created: '2025'
+modified: '2025'
+apis: []
+common: []
