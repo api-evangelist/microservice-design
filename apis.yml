@@ -1,15 +1,25 @@
+aid: microservice-design
 name: Microservice Design
-description: Architectural approach for building applications as a collection of loosely
-  coupled, independently deployable services that are organized around business capabilities.
-  Modern distributed architectures rely on it to coordinate workloads across multiple
-  nodes and regions.
-url: https://microservices.io/
+description: >-
+  Architectural approach for building applications as a collection of loosely
+  coupled, independently deployable services that are organized around business
+  capabilities. Covers principles, patterns, and best practices for designing
+  effective microservice-based systems.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/microservice-design/refs/heads/main/apis.yml
 tags:
-- Software Architecture
-- Microservices
-- Distributed Systems
-- Service-Oriented Architecture
-created: '2025'
-modified: '2025'
+  - Software Architecture
+  - Microservices
+  - Distributed Systems
+  - Service-Oriented Architecture
+  - Design Patterns
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
